@@ -1,0 +1,7 @@
+id=GOSDeleter
+name=Game Optimizing Service Deleter
+version=v1.0.0
+versionCode=1
+author=Nemris
+description=Systemlessly delete Samsung's Game Optimizing Service.
+updateJson=https://raw.githubusercontent.com/Nemris/gosdeleter/main/update.json
